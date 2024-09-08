@@ -1,6 +1,9 @@
 
 # Web crawler - books
 
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Scrapy)
+![Static Badge](https://img.shields.io/badge/PR-Welcome-blue)
+
 My first attempt at creating a web crawler in Python. It traverses an online book shop and grabs book titles and URLs.
 
 I have followed the tutorial that can be found at: https://realpython.com/web-scraping-with-scrapy-and-mongodb/.
